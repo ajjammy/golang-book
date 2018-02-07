@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("\n=====Zero Value=====")
+	fmt.Println("=====Zero Value=====")
 	var number int
 	var str string
 	var boolean bool
