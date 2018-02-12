@@ -18,3 +18,7 @@
 * chapter3-3: Floating point
 
 ## Chapter 4
+
+* chapter4-1: Variables
+* chapter4-2: Covert fahrenheit to celsius program
+* chapter4-3: Covert feet to meters program
