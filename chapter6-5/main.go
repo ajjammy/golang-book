@@ -11,13 +11,17 @@ func main() {
 func fizzBuzz(i int) {
 	if isFizz(i) && isBuzz(i) {
 		fmt.Println(i, "FizzBuzz")
-	} else if isFizz(i) {
-		fmt.Println(i, "Fizz")
-	} else if isBuzz(i) {
-		fmt.Println(i, "Buzz")
-	} else {
-		fmt.Println(i)
+		return
 	}
+	if isFizz(i) {
+		fmt.Println(i, "Fizz")
+		return
+	}
+	if isBuzz(i) {
+		fmt.Println(i, "Buzz")
+		return
+	}
+	fmt.Println(i)
 }
 
 func isFizz(i int) bool {
