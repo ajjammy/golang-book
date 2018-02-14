@@ -9,13 +9,21 @@ func main() {
 }
 
 func fizzBuzz(i int) {
-	if i%15 == 0 {
+	if isFizz(i) && isBuzz(i) {
 		fmt.Println(i, "FizzBuzz")
-	} else if i%3 == 0 {
+	} else if isFizz(i) {
 		fmt.Println(i, "Fizz")
-	} else if i%5 == 0 {
+	} else if isBuzz(i) {
 		fmt.Println(i, "Buzz")
 	} else {
 		fmt.Println(i)
 	}
+}
+
+func isFizz(i int) bool {
+	return i%3 == 0
+}
+
+func isBuzz(i int) bool {
+	return i%5 == 0
 }
