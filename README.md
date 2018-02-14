@@ -31,4 +31,5 @@
 
 * chapter6-1: Function
 * chapter6-2: Function Return types can have names
-* chapter6-3: Multiple values can be returned
+* chapter6-3: Function Multiple values can be returned
+* chapter6-4: Funvtion Variadic Function
