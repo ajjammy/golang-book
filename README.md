@@ -35,5 +35,8 @@
 ## Chapter 8
 
 ## Chapter 9
-* chapter9-1: struct type
-* chapter9-2: specific type
+* chapter9-1: Struct type
+* chapter9-2: Specific type
+
+## Chapter 10
+* chapter10-1: Method
