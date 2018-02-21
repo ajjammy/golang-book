@@ -22,6 +22,7 @@
 
 ## Chapter 5
 * chapter5-1: Print number 1 to 10 use for loop
+* chapter5-2: Exercise FizzBuzz
 
 ## Chapter 6
 * chapter6-1: Function
