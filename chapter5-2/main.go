@@ -12,12 +12,13 @@ func main() {
 }
 
 func fizzBuzz(number int) string {
-	if number%15 == 0 {
-		return "FizzBuzz"
-	} else if number%3 == 0 {
-		return "Fizz"
-	} else if number%5 == 0 {
-		return "Buzz"
+	ln := [4]int{15, 3, 5, 7}
+	str := [4]string{"FizzBuzz", "Fizz", "Buzz", "Aha"}
+
+	for i := 0; i < len(ln); i++ {
+		if number%ln[i] == 0 {
+			return str[i]
+		}
 	}
 	return strconv.Itoa(number)
 }
