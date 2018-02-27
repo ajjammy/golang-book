@@ -31,10 +31,11 @@ func (m *VendingMachine) SelectCC() string {
 }
 
 func (m VendingMachine) change(c int) string {
-	if c == 0 {
-		return ""
+	var str string
+	if c == 8 {
+		return ", F, TW, O"
 	}
-	return ", F, TW, O"
+	return str
 }
 
 func main() {
