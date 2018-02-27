@@ -44,3 +44,7 @@
 
 ## Chapter 11
 * chapter11-1: Interface
+
+## Exercise
+* Console Weather
+* Vending Machine
