@@ -32,17 +32,18 @@ func (m *VendingMachine) SelectCC() string {
 
 func (m VendingMachine) change(c int) string {
 	var str string
-	if c >= 5 {
+	values := [...]int{10, 5, 2, 1}
+	if c >= values[0] {
 		str += ", F"
-		c -= 5
+		c -= values[0]
 	}
-	if c >= 2 {
+	if c >= values[1] {
 		str += ", TW"
-		c -= 2
+		c -= values[1]
 	}
-	if c >= 1 {
+	if c >= values[2] {
 		str += ", O"
-		c -= 1
+		c -= values[2]
 	}
 	return str
 }
