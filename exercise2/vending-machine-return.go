@@ -32,8 +32,17 @@ func (m *VendingMachine) SelectCC() string {
 
 func (m VendingMachine) change(c int) string {
 	var str string
-	if c == 8 {
-		return ", F, TW, O"
+	if c >= 5 {
+		str += ", F"
+		c -= 5
+	}
+	if c >= 2 {
+		str += ", TW"
+		c -= 2
+	}
+	if c >= 1 {
+		str += ", O"
+		c -= 1
 	}
 	return str
 }
