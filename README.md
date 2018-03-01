@@ -32,6 +32,7 @@
 * chapter6-5: Exercise FizzBuzz function 
 
 ## Chapter 7
+* chapter7-1: Arrays
 
 ## Chapter 8
 
