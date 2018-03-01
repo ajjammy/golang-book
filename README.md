@@ -33,6 +33,7 @@
 
 ## Chapter 7
 * chapter7-1: Arrays
+* chapter7-2: Slice
 
 ## Chapter 8
 
