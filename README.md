@@ -34,6 +34,7 @@
 ## Chapter 7
 * chapter7-1: Arrays
 * chapter7-2: Slice
+* chapter7-3: Slice copy values form arrays
 
 ## Chapter 8
 
