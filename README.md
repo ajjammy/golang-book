@@ -51,3 +51,8 @@
 ## Exercise
 * Console Weather
 * Vending Machine
+
+## Chapter 12
+
+## Chapter 13
+* chapter13-1: goroutine
