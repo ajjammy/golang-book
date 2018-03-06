@@ -57,3 +57,5 @@
 ## Chapter 13
 * chapter13-1: goroutine
 * chapter13-2: goroutine
+* chapter13-3: goroutine
+* chapter13-4: goroutine sync.WaitGroup
