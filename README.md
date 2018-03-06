@@ -56,3 +56,4 @@
 
 ## Chapter 13
 * chapter13-1: goroutine
+* chapter13-2: goroutine
