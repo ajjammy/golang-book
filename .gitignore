@@ -1,3 +1,4 @@
 *.exe
 *.tn
 .DS_Store
+.vscode
