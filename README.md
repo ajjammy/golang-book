@@ -76,3 +76,4 @@
 * chapter13-15: Channel-Direction Close Channel
 * chapter13-16: Channel-Select
 * chapter13-17: Pipeline #1
+* chapter13-18: Pipeline #2 fix infinity loop
