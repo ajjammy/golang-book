@@ -71,3 +71,4 @@
   * ระบุจำนวน channel ได้
   * asign ค่าได้เพราะมีลำดับที่แน่นอน
 * chapter13-12: go channel Buffered Overfilled
+* chapter13-13: goroutine Leak
