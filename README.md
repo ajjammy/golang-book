@@ -65,3 +65,8 @@
 * chapter13-8: goroutine deadlock
 * chapter13-9: go channel
 * chapter13-10: go channel Unbuffered Channel
+  * 1 channel
+  * asign ค่าไม่ได้เพราะโดน block อยู่
+* chapter13-11: go channel Buffered Channel
+  * ระบุจำนวน channel ได้
+  * asign ค่าได้เพราะมีลำดับที่แน่นอน
