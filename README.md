@@ -62,3 +62,4 @@
 * chapter13-5: goroutine sync.WaitGroup
 * chapter13-6: goroutine sync.WaitGroup
 * chapter13-7: goroutine sync.Mutex
+* chapter13-8: goroutine deadlock
