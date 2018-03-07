@@ -70,3 +70,4 @@
 * chapter13-11: go channel Buffered Channel
   * ระบุจำนวน channel ได้
   * asign ค่าได้เพราะมีลำดับที่แน่นอน
+* chapter13-12: go channel Buffered Overfilled
