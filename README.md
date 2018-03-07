@@ -54,6 +54,7 @@
 
 ## Chapter 12
 * chapter12-1: first class function
+* chapter12-2: first class function
 
 ## Chapter 13
 * chapter13-1: goroutine
