@@ -48,13 +48,10 @@
 ## Chapter 11
 * chapter11-1: Interface
 
-## Exercise
-* Console Weather
-* Vending Machine
-
 ## Chapter 12
 * chapter12-1: first class function
 * chapter12-2: first class function
+* chapter12-3: Change FizzBuzz to Functional Style
 
 ## Chapter 13
 * chapter13-1: goroutine
@@ -81,3 +78,7 @@
 * chapter13-18: Pipeline #2 fix infinity loop
 * chapter13-19: Pipeline #3 refactor to function
 * chapter13-20: Timeout
+
+## Exercise
+* Exam#1 Console Weather
+* Exam#2 Vending Machine
